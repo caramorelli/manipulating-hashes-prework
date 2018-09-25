@@ -11,3 +11,6 @@ def second_challenge
   
 
 end
+
+# it "uses the .values method to collect all of the grocery items from the groceries hash" do 
+#     expect(second_challenge).to eq(["milk", "yogurt", "cheese", "carrots", "broccoli", "cucumbers", "chicken", "steak", "salmon", "rice", "pasta"])
