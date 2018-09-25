@@ -13,7 +13,7 @@ def first_challenge
     }
   }
 
-  #your code here
+  contacts["Freddy Mercury"][:favorite_icecream_flavors].keep_if { |flavour| flavour !=   }
 
 
   #remember to return your newly altered contacts hash!
